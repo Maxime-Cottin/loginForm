@@ -70,7 +70,7 @@ body {
     border: solid 2px #e67e22; 
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
     #container {
         width: 300px;
     }
